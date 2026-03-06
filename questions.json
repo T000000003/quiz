@@ -18,7 +18,7 @@
     "answer": 1
   },
   {
-    "question": "Dans un camion on charge les palettes",
+    "question": "Dans un camion on charge les palettes:",
     "choice1": "Par l'avant du camion",
     "choice2": "Par l'arrière du camion",
     "choice3": "Il faut d'abord les mettre sur le toit",
@@ -27,7 +27,7 @@
     "answer": 2
   }
   ,{
-    "question": "La CMR c'est un document",
+    "question": "La CMR c'est un document:",
     "choice1": "Pour les courses de voiture",
     "choice2": "Pour le transport des marchandises",
     "choice3": "Pour le bien être des animaux",
@@ -36,7 +36,7 @@
     "answer": 2
   },
   {
-    "question": "Un tachygraphe ça mesure",
+    "question": "Un tachygraphe ça mesure:",
     "choice1": "Le temps de conduite des conducteurs de camions",
     "choice2": "Le temps de vol des pilotes de ligne",
     "choice3": "Le temps qu'il faut pour commander des pizzas",
