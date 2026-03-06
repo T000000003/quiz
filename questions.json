@@ -13,6 +13,7 @@
     "choice2": "<script name='xxx.js'>",
     "choice3": "<script src='xxx.js'>",
     "choice4": "<script file='xxx.js'>",
+    "image": "https://media.istockphoto.com/id/1418267688/fr/photo/vue-a%C3%A9rienne-de-haut-en-bas-dun-grand-cargo-porte-conteneurs-avec-espace-de-copie.jpg?s=1024x1024&w=is&k=20&c=40aHZwLR15ISzJd5fyeAel6m3LvRTSPCyGK3IBvJr4o=",
     "answer": 3
   },
   {
@@ -21,6 +22,7 @@
     "choice2": "alertBox('Hello World');",
     "choice3": "msg('Hello World');",
     "choice4": "alert('Hello World');",
+    "image": "https://media.istockphoto.com/id/1418267688/fr/photo/vue-a%C3%A9rienne-de-haut-en-bas-dun-grand-cargo-porte-conteneurs-avec-espace-de-copie.jpg?s=1024x1024&w=is&k=20&c=40aHZwLR15ISzJd5fyeAel6m3LvRTSPCyGK3IBvJr4o=",
     "answer": 4
   }
 ]

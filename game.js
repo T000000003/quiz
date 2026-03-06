@@ -3,6 +3,7 @@ const choices = Array.from(document.getElementsByClassName('choice-text'));
 const progressText = document.getElementById('progressText');
 const scoreText = document.getElementById('score');
 const progressBarFull = document.getElementById('progressBarFull');
+const image = document.getElementById('image')
 let currentQuestion = {};
 let acceptingAnswers = false;
 let score = 0;
@@ -38,7 +39,7 @@ getNewQuestion = () => {
     if (availableQuesions.length === 0 || questionCounter >= MAX_QUESTIONS) {
         localStorage.setItem('mostRecentScore', score);
         //go to the end page
-        return window.location.assign('/quiz/end');
+        return window.location.assign('/end.html');
     }
     questionCounter++;
     progressText.innerText = `Question ${questionCounter}/${MAX_QUESTIONS}`;
@@ -47,7 +48,10 @@ getNewQuestion = () => {
 
     const questionIndex = Math.floor(Math.random() * availableQuesions.length);
     currentQuestion = availableQuesions[questionIndex];
+    console.log(currentQuestion)
     question.innerText = currentQuestion.question;
+
+    image.src = currentQuestion.image;
 
     choices.forEach((choice) => {
         const number = choice.dataset['number'];
