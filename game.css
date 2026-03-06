@@ -57,7 +57,7 @@
 }
 
 #progressBarFull {
-  height: 3.4rem;
+  height: 3.8rem;
   background-color: #56a5eb;
   width: 0%;
 }
@@ -79,4 +79,15 @@
   100% {
     transform: rotate(360deg);
   }
+}
+
+#image {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+#question {
+    margin: 0;
 }
