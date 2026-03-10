@@ -39,7 +39,7 @@ getNewQuestion = () => {
     if (availableQuesions.length === 0 || questionCounter >= MAX_QUESTIONS) {
         localStorage.setItem('mostRecentScore', score);
         //go to the end page
-        return window.location.assign('/quiz/end');
+        return window.location.assign('/end.html');
     }
     questionCounter++;
     progressText.innerText = `Question ${questionCounter}/${MAX_QUESTIONS}`;
@@ -70,10 +70,11 @@ choices.forEach((choice) => {
         const selectedChoice = e.target;
         const selectedAnswer = selectedChoice.dataset['number'];
 
-        const classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';
+        const classToApply =
+            selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';
 
         if (classToApply === 'correct') {
-            incrementScore(CORRECT_BONUs);
+            incrementScore(CORRECT_BONUS);
         }
 
         selectedChoice.parentElement.classList.add(classToApply);
@@ -81,7 +82,7 @@ choices.forEach((choice) => {
         setTimeout(() => {
             selectedChoice.parentElement.classList.remove(classToApply);
             getNewQuestion();
-        }, 750);
+        }, 1000);
     });
 });
 
