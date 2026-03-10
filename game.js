@@ -37,11 +37,10 @@ startGame = () => {
 
 getNewQuestion = () => {
     if (availableQuesions.length === 0 || questionCounter >= MAX_QUESTIONS) {
-        localStorage.setItem('mostRecentScore', score);
-
-        setTimeout(() => {
-            window.location.assign('/quiz/end');
-        }, 50);
+        sessionStorage.setItem('mostRecentScore', score);
+        //Go to end page
+        return window.location.assign('/quiz/end');
+        
         
     }
     questionCounter++;
