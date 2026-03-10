@@ -125,3 +125,7 @@ input {
 input::placeholder {
   color: #aaa;
 }
+
+#name-title {
+  font-size: 300%;
+}
