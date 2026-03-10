@@ -73,7 +73,7 @@ choices.forEach((choice) => {
         const classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';
 
         if (classToApply === 'correct') {
-            incrementScore(Number(CORRECT_BONU));
+            incrementScore(CORRECT_BONU);
         }
 
         selectedChoice.parentElement.classList.add(classToApply);
