@@ -52,5 +52,96 @@
     "choice4": "Impossible à déterminer",
     "image": "https://images.caradisiac.com/logos/3/9/2/9/263929/S7-camions-la-fin-du-diesel-des-2040-187102.jpg",
     "answer": 3
+  },
+  {
+    "question": "Que signifie l’Incoterm EXW (Ex Works) ?",
+    "choice1": "Le vendeur livre la marchandise à bord du navire",
+    "choice2": "Le vendeur met la marchandise à disposition dans ses locaux",
+    "choice3": "Le vendeur assure la marchandise jusqu'à destination",
+    "choice4": "Le vendeur paie le transport principal",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 2
+  },
+  {
+    "question": "Dans l’Incoterm FCA (free carrier), où s’effectue le transfert des risques ?",
+    "choice1": "À bord du navire",
+    "choice2": "Après le déchargement",
+    "choice3": "À l'arrivée au port de destination",
+    "choice4": "Lors de la remise au premier transporteur",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 4
+  },
+  {
+    "question": "Que doit faire le vendeur en FAS (Free Alongside Ship) ?",
+    "choice1": "Charger la marchandise à bord du navire",
+    "choice2": "Payer les droits de douane import",
+    "choice3": "Livrer la marchandise le long du navire",
+    "choice4": "Assurer la marchandise jusqu'au port d'arrivée",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 3
+  },
+  {
+    "question": "En FOB (Free on board), quand le risque est-il transféré à l’acheteur ?",
+    "choice1": "Quand la marchandise est déchargée",
+    "choice2": "Quand la marchandise est remise au transporteur routier",
+    "choice3": "Quand la marchandise est à bord du navire",
+    "choice4": "Quand la marchandise arrive au port d'arrivée",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 3
+  },
+  {
+    "question": "Dans l’Incoterm CFR (cost and freight), que paie le vendeur ?",
+    "choice1": "Les droits de douane import",
+    "choice2": "Le transport maritime jusqu'au port d'arrivée",
+    "choice3": "Le déchargement au port d'arrivée",
+    "choice4": "L'assurance de la marchandise",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 2
+  },
+  {
+    "question": "Quelle est la particularité du CIF (cost, insurance and freight) par rapport au CFR (cost and freight) ?",
+    "choice1": "Le vendeur assure la marchandise jusqu'au port d'arrivée",
+    "choice2": "Le vendeur décharge la marchandise",
+    "choice3": "L'acheteur paie le transport maritime",
+    "choice4": "Le vendeur paie les droits de douane",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 1
+  },
+  {
+    "question": "Dans l’Incoterm CPT (carriage paid to), quand le risque est-il transféré ?",
+    "choice1": "Après le déchargement",
+    "choice2": "À l'arrivée au lieu de destination",
+    "choice3": "Quand la marchandise est à bord du navire",
+    "choice4": "Lors de la remise au premier transporteur",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 4
+  },
+  {
+    "question": "Que doit fournir le vendeur en CIP (Carriage & Insurance Paid To) ?",
+    "choice1": "Le chargement à bord du navire",
+    "choice2": "Le déchargement au lieu d'arrivée",
+    "choice3": "Une assurance étendue couvrant la marchandise",
+    "choice4": "Les droits de douane import",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 3
+  },
+  {
+    "question": "Quelle est la particularité du DPU (Delivered at Place Unloaded) ?",
+    "choice1": "Le vendeur paie les droits de douane import",
+    "choice2": "Le risque est transféré au port d'embarquement",
+    "choice3": "Le vendeur doit décharger la marchandise",
+    "choice4": "L'acheteur paie le transport principal",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 3
+  },
+  {
+    "question": "En DDP (Delivered Duty Paid), qui paie les droits de douane import ?",
+    "choice1": "Le vendeur",
+    "choice2": "Les deux parties à part égale",
+    "choice3": "L'acheteur",
+    "choice4": "Le transporteur",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 1
   }
 ]
+
