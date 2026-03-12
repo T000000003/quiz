@@ -142,6 +142,186 @@
     "choice4": "Le transporteur",
     "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
     "answer": 1
+  },
+  {
+    "question": "Quelle est la longueur maximale d’un semi-remorque en Europe ?",
+    "choice1": "12 m",
+    "choice2": "16,50 m",
+    "choice3": "18,75 m",
+    "choice4": "20 m",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 2
+  },
+  {
+    "question": "Quel est le poids total autorisé en charge (PTAC) d’un ensemble articulé standard en Europe ?",
+    "choice1": "32 tonnes",
+    "choice2": "38 tonnes",
+    "choice3": "40 tonnes",
+    "choice4": "44 tonnes",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 3
+  },
+  {
+    "question": "Combien d’essieux possède généralement un tracteur routier standard ?",
+    "choice1": "1",
+    "choice2": "2",
+    "choice3": "3",
+    "choice4": "4",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 2
+  },
+  {
+    "question": "Combien d’essieux possède un semi-remorque classique ?",
+    "choice1": "1",
+    "choice2": "2",
+    "choice3": "3",
+    "choice4": "4",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 3
+  },
+  {
+    "question": "Quel est le temps de conduite maximal continu autorisé avant une pause obligatoire ?",
+    "choice1": "2 h",
+    "choice2": "3 h",
+    "choice3": "4 h 30",
+    "choice4": "5 h",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 3
+  },
+  {
+    "question": "Quelle est la durée minimale de la pause après 4 h 30 de conduite ?",
+    "choice1": "15 min",
+    "choice2": "30 min",
+    "choice3": "45 min",
+    "choice4": "60 min",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 3
+  },
+  {
+    "question": "Quel est le temps de conduite maximal journalier autorisé ?",
+    "choice1": "7 h",
+    "choice2": "8 h",
+    "choice3": "9 h",
+    "choice4": "10 h",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 3
+  },
+  {
+    "question": "Combien de fois par semaine un conducteur peut-il conduire 10 h ?",
+    "choice1": "1 fois",
+    "choice2": "2 fois",
+    "choice3": "3 fois",
+    "choice4": "Illimité",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 2
+  },
+  {
+    "question": "Quelle est la durée minimale du repos journalier normal ?",
+    "choice1": "8 h",
+    "choice2": "9 h",
+    "choice3": "10 h",
+    "choice4": "11 h",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 4
+  },
+  {
+    "question": "Quel document est obligatoire pour transporter des marchandises ?",
+    "choice1": "Le permis B",
+    "choice2": "Le CMR",
+    "choice3": "Le passeport",
+    "choice4": "Le certificat ADR",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 2
+  },
+  {
+    "question": "Quel type de camion est le plus utilisé pour le transport longue distance ?",
+    "choice1": "Porteur 12 t",
+    "choice2": "Tracteur + semi-remorque",
+    "choice3": "Camionnette 3,5 t",
+    "choice4": "Camion benne",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 2
+  },
+  {
+    "question": "Quel est l’avantage principal d’un méga-trailer ?",
+    "choice1": "Plus léger",
+    "choice2": "Plus haut (3 m intérieur)",
+    "choice3": "Plus rapide",
+    "choice4": "Moins cher",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 2
+  },
+  {
+    "question": "Quel est le rôle principal d’un dispatcher ?",
+    "choice1": "Conduire les camions",
+    "choice2": "Planifier et optimiser les trajets",
+    "choice3": "Réparer les véhicules",
+    "choice4": "Contrôler les douanes",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 2
+  },
+  {
+    "question": "Quel est le risque principal d’un dépassement de temps de conduite ?",
+    "choice1": "Une panne moteur",
+    "choice2": "Une baisse de consommation",
+    "choice3": "Une perte de cargaison",
+    "choice4": "Une amende et retrait de points",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 4
+  },
+  {
+    "question": "Quel est le carburant le plus utilisé pour les poids lourds ?",
+    "choice1": "Essence",
+    "choice2": "Éthanol",
+    "choice3": "GPL",
+    "choice4": "Diesel",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 4
+  },
+  {
+    "question": "Quel est le volume standard d’une semi-remorque tautliner ?",
+    "choice1": "40 m³",
+    "choice2": "60 m³",
+    "choice3": "90 m³",
+    "choice4": "120 m³",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 3
+  },
+  {
+    "question": "Quel est le terme pour un camion transportant des marchandises dangereuses ?",
+    "choice1": "ADR",
+    "choice2": "CMR",
+    "choice3": "Tautliner",
+    "choice4": "Frigo",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 1
+  },
+  {
+    "question": "Quel est le principal avantage d’un camion frigorifique ?",
+    "choice1": "Transport de marchandises volumineuses",
+    "choice2": "Transport sous température contrôlée",
+    "choice3": "Consommation réduite",
+    "choice4": "Plus grande vitesse",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 2
+  },
+  {
+    "question": "Quel est le document utilisé pour vérifier les temps de conduite ?",
+    "choice1": "Le passeport",
+    "choice2": "Le permis C",
+    "choice3": "Le CMR",
+    "choice4": "Le tachygraphe",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 4
+  },
+  {
+    "question": "Quel est le terme pour un chargement complet ?",
+    "choice1": "Groupage",
+    "choice2": "LTL",
+    "choice3": "FTL",
+    "choice4": "Express",
+    "image": "https://media.istockphoto.com/id/1319258476/fr/photo/contr%C3%B4leur-de-la-circulation-a%C3%A9rienne-f%C3%A9minin-avec-casque-parler-lors-dun-appel-dans-la-tour.jpg?s=612x612&w=0&k=20&c=6AmNWqj0YxXyYCNpsNyXIMsWYJWB51xNf3AoaFwLk34=",
+    "answer": 3
   }
 ]
 
